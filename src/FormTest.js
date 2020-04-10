@@ -1,5 +1,5 @@
 import React from "react";
-import { render } from "@testing-library/react";
+import { render } from "@testing-library/react";git commit -m ""
 import ContactForm from "./components/ContactForm";
 
 test("Type input", () => {
